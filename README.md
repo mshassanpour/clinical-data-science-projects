@@ -8,11 +8,11 @@ Each project demonstrates the application of various data analysis, machine lear
 - **Objective:** To explore the relationship between the number of cigarettes smoked per day and the prevalence of diabetes using SQL and Python for database management and analysis.
 - **Description:** This project involves generating a database from CSV files and performing exploratory data analysis using SQL and Python. The aim is to uncover patterns and insights into how smoking habits correlate with diabetes rates.
 - **Path:** notebooks/smoking_diabetes_database_ops.ipynb
-### 2. Cigarette Consumption vs. Diabetes Prevalence, 
+### 2. Cigarette Consumption vs. Diabetes Prevalence
 - **Objective:** To explore the relationship between the number of cigarettes smoked per day and the prevalence of diabetes.
 - **Description:** This project involves loading, cleaning, and analyzing relational clinical data. The goal is to perform exploratory data analysis (EDA) to understand how smoking habits correlate with diabetes rates. Various visualizations and statistical methods are employed to uncover patterns and insights.
 - **Path:**  notebooks/cigarettes_diabetes_analysis.ipyn
-### 3. Breast Cancer Tumor Classification, 
+### 3. Breast Cancer Tumor Classification
 - **Objective:** To train a model that can predict whether breast cancer tumors are malignant or benign based on tumor characteristics.
 - **Description:**  Utilizing the Breast Cancer Wisconsin (Diagnostic) Dataset, this project focuses on feature extraction, model training, and evaluation. Several machine learning algorithms are compared to determine the best performing model for accurate classification.
 - **Path:** notebooks/breast_cancer_tumor_classification.ipynb
