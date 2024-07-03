@@ -1,5 +1,5 @@
 # clinical-data-science-projects
-This repository showcases a collection of clinical data science projects. Explore notebooks on cigarette consumption vs. diabetes prevalence, Breast Cancer Tumor Classification, Ophthalmology Image Segmentation, Hospital Readmission Forecasting, and more. Dive into data analysis, machine learning, and statistical insights.
+This repository showcases a collection of clinical data science projects. Explore notebooks on Digarette Consumption vs. Diabetes Prevalence, Breast Cancer Tumor Classification, Ophthalmology Image Segmentation, Hospital Readmission Forecasting, and more. Dive into data analysis, machine learning, and statistical insights.
 
 Each project demonstrates the application of various data analysis, machine learning, and statistical techniques to solve problems related to health and medicine. Explore detailed notebooks, scripts, and results that offer insights into different clinical datasets.
 
